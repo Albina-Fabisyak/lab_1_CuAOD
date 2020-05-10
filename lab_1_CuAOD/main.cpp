@@ -1,7 +1,7 @@
 //СиАОД_Лаб.1_Вар.3_ФабисякА.А
 #include<iostream>
 using namespace std;
-
+//dfgnml;lkjhgfdssdcfvghjklkjhgfdsdfgbhnjmk,.lkjhgfdsdfgbnm,./hbgfdsxcvbnm,
 struct Node
 {
     int A;
